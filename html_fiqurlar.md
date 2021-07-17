@@ -1,7 +1,7 @@
 # html_fiqurlar-n_qurulmas-
 <head>
     <meta charset='utf-8'>
-    <title>20.sayfam</title> 
+    <title>20.page</title> 
     <style type='text/css'>
     body{background:rgb(153, 200, 192)}
     .qutu{width:200px ; height:200px; background:#f00; margin:40px auto 0 auto; box-shadow:10px 5px 4px #000 ,-10px -5px 4px #000}
