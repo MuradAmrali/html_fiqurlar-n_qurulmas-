@@ -1,5 +1,5 @@
 # html_fiqurlar-n_qurulmas-
-#<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset='utf-8'>
