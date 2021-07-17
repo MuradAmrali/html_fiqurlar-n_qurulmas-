@@ -1,6 +1,4 @@
 # html_fiqurlar-n_qurulmas-
-<!DOCTYPE html>
-<html>
 <head>
     <meta charset='utf-8'>
     <title>20.sayfam</title> 
