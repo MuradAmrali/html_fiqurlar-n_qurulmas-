@@ -23,7 +23,5 @@
 <div class='qutu5'></div>
 <h1 class='yazi3'>Fiqur 5</h1>
 <br/><br/>
-
-
 </body>
 </html>
