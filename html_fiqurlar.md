@@ -11,10 +11,6 @@
     .qutu3{width:200px ; height:200px ; background:#00f; margin: 150px auto 0 auto ;box-shadow:10px 5px 4px rgb(72, 122, 168);border-radius: 30px 30px ;}
     .qutu4{width:200px ; height:200px ; background:rgb(230, 26, 213); margin: 150px auto 0 auto ;box-shadow:10px 5px 4px rgb(112, 57, 112);border-radius: 30px 60px 70px 80px ;}
     .qutu5{width:200px ; height:200px ; background:rgb(203, 236, 11); margin: 150px auto 0 auto ;box-shadow:10px 5px 4px rgb(165, 189, 30);border-radius: 20px 20px; transform:rotate(15deg)}
-   h1{font:bold 20px Arial;color:#000 }
-   .yazi{font:bold 23px Arial;color:rgb(2, 17, 31)}
-   .yazi2{font:bold 26px Tahoma; color:black}
-   .yazi3{font:bold 30px Arial; color:#000}
     </style>
 </head>
 <body>
