@@ -1,1 +1,0 @@
-# html_fiqurlar-n_qurulmas-
